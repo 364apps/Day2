@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day2</string>
+    <string name="red">Красный фон</string>
+    <string name="green">Зеленый фон</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="check_box">чек боксы</string>
+    <string name="blue">Синий текст</string>
+    <string name="yellow">Желтый текст</string>
+</resources>
